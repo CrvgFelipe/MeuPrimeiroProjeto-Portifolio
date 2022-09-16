@@ -1,0 +1,198 @@
+* {margin: 0%;
+    box-sizing: border-box;
+    padding: 0%;
+}
+
+
+/* Personalização da body */
+body{
+    
+background: linear-gradient(45deg, #222831, #393E46, #00ADB5, #EEEEEE); 
+background-attachment: fixed;
+
+}
+/* Fim personalização da body */
+        
+
+
+
+
+
+
+/* Personalização do menu */
+            
+        ul{     display:flex;
+                justify-content:space-around;
+                list-style: none;
+                font-size: 35px;
+                font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                font-weight:bolder;
+                padding:10px;
+                background-image: linear-gradient(45deg, #222831, #393E46, #00ADB5, #EEEEEE);
+                background-size: 120%; 
+                border-radius: 7px;
+                
+                
+                
+            }
+
+            .neu{font-size: 28px;
+                color: #EEEEEE;
+               
+                
+            
+            }
+
+            #neu ul a{font-size: 28px;
+                color: #EEEEEE;
+               
+
+            }
+
+            #neu ul li{font-size: 28px;
+                color: #EEEEEE;
+
+            }
+
+
+            .neu:hover{
+                background-color:black;
+
+                cursor: pointer;
+                
+
+
+            }
+
+
+           .hi{font-size: 28px;
+                left: 60px;
+                color: #EEEEEE;
+                }
+
+
+            .hi:hover{background-color: black;
+                cursor: pointer;
+
+
+            }
+
+            
+            
+            .contato{font-size: 28px;
+                color:beige;
+
+            }
+            
+
+            .contato:hover{background-color: black;
+                cursor: pointer;
+
+            }
+
+            a{
+                text-decoration: none;
+              }
+/* FIM DA PERSONALIZAÇÃO MENU  */
+
+
+
+
+
+
+
+
+
+
+/*INCIO PERSONALIZAÇÃO MINHA FOTO*/
+.fotoeu{text-align: center;
+    margin-left: 48px;
+    margin-top: 30px;
+    
+}
+.fotoeu img{
+position: center; 
+            border-radius: 110px;
+            border:5px solid;
+            border-color: #beecef;
+
+}
+
+
+ /* FIM PERSONALIZAÇÃO MINHA FOTO*/   
+
+
+
+
+
+
+
+
+
+ /* Incicio Texto quem sou eu e etc */
+
+
+.soueu{text-align:center;
+    margin-top: 20px;
+    margin-left: 80px;
+    color: #EEEEEE;
+
+
+}
+
+/* fim quem sou eu*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* INICIO PERSONALIZAÇÃO ICONES REDE SOCIAIS*/
+ 
+
+.redes{
+    margin-top: 50px;
+    
+    text-align: center;
+}
+
+#redes{
+    padding: 20px;
+    display: inline-block;
+}
+.redes img{height: 40px;
+    width: 40px;
+
+
+}
+
+.redes p{
+    color: #EEEEEE;
+
+}
+.redes p:hover{background-color: black;
+
+
+}
+
+/* FIM PERSONALIZAÇÃO REDES SOCIAIS */
+
+
+
+
+
+
+
+
+
+
+
+
+
